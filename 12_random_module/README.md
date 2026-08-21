@@ -40,15 +40,19 @@ This chooses one random item from the list.
 6. `06_card_draw.py` - draw a random card
 7. `07_vampire_pick.py` - choose a random vampire clue
 8. `08_record_shop_pick.py` - choose a random record from stock
+9. `09_magic_8_ball.py` - starter activity for a Magic 8 Ball
+10. `10_magic_8_ball_loop.py` - starter loop version of the Magic 8 Ball
 
 ## Exercises
 
-9. `exercise_01_random_number.py` - generate a random number
-10. `exercise_02_pick_item.py` - choose a random item
-11. `exercise_03_pick_winner.py` - choose a random name from a list
-12. `exercise_04_dice_total.py` - roll dice and total the score
-13. `exercise_05_vampire_choice.py` - choose from several vampire options
-14. `exercise_06_stock_pick.py` - choose a record at random
+11. `exercise_01_random_number.py` - generate a random number
+12. `exercise_02_pick_item.py` - choose a random item
+13. `exercise_03_pick_winner.py` - choose a random name from a list
+14. `exercise_04_dice_total.py` - roll dice and total the score
+15. `exercise_05_vampire_choice.py` - choose from several vampire options
+16. `exercise_06_stock_pick.py` - choose a record at random
+17. `exercise_07_magic_8_ball.py` - build a basic Magic 8 Ball
+18. `exercise_08_magic_8_ball_custom.py` - build a more advanced custom Magic 8 Ball
 
 ## Theory notes
 
