@@ -12,8 +12,8 @@ It keeps the basic idea:
 
 ## Simple version
 
-This demo uses a 4 by 4 board, not a 6 by 6 board.
-This makes it much easier to play and understand.
+### This demo uses a 4 by 4 board
+### Use pen and paper to help track the game moves
 
 ## Rules
 
@@ -31,13 +31,3 @@ This is not a full strategy game. It is a gentle introduction to:
 - connected groups
 - choosing valid moves
 - simple turn-based play
-
-## Possible extension
-
-Students can later make it more advanced by adding:
-
-- larger board sizes
-- a full win check
-- turn switching
-- score counting
-- a smarter move system
